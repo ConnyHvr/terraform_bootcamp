@@ -17,5 +17,5 @@ provider "aws" {
 provider "aws" {
   alias   = "east"
   region  = "us-east-1"
-  profile = "terraform_bootcamp"
+  profile = "terraform"
 }
